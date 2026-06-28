@@ -25,19 +25,6 @@ section {
     margin-bottom: 20px;
 }
 
-
-.banners {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-}
-.banners img {
-    width: 100%;
-    max-width: 420px;
-    border-radius: 8px;
-}
-
 button {
     padding: 10px 20px;
     background-color: #0066cc;
