@@ -12,7 +12,7 @@ Projeto desenvolvido para aprendizagem de:
 
 ## Estrutura do Projeto
 
-- index. html
+- index.html
 - styles/style.css
 - scripts/script.js
 - assests/
