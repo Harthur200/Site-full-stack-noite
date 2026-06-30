@@ -9,7 +9,7 @@ body {
     color: #333;
 }
 header {
-    background-color: #0066cc;
+    background-color: #08a302;
     color: white;
     padding: 20px;
     text-align: center;
@@ -40,7 +40,7 @@ section {
 
 button {
     padding: 10px 20px;
-    background-color: #0066cc;
+    background-color: #08a302;
     color: white;
     border: none;
     cursor: pointer;         
